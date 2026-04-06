@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b687791-a869-44fe-a5fe-d746b4b55ba1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/HTMLValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MainValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MusicPlaylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MusicPlaylist.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MainValidator">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="ProductStar" />
@@ -49,8 +51,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainValidator" />
+      <module name="ProductStar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainValidator" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
